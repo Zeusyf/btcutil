@@ -1,3 +1,3 @@
-module github.com/omegasuite/btcutil
+module github.com/zeusyf/btcutil
 
 go 1.22.1

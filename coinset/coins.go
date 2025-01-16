@@ -9,9 +9,9 @@ import (
 	"errors"
 	"sort"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/wire"
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/wire"
+	"github.com/zeusyf/btcutil"
 )
 
 // Coin represents a spendable transaction outpoint

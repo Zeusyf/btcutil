@@ -1,3 +1,3 @@
-module github.com/omegasuite/btcutil/bloom
+module github.com/zeusyf/btcutil/bloom
 
 go 1.22.1

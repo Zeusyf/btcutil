@@ -9,9 +9,9 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/omegasuite/btcd/chaincfg/chainhash"
-	"github.com/omegasuite/btcd/wire"
-	"github.com/omegasuite/btcutil/bloom"
+	"github.com/zeusyf/btcd/chaincfg/chainhash"
+	"github.com/zeusyf/btcd/wire"
+	"github.com/zeusyf/btcutil/bloom"
 )
 
 // This example demonstrates how to create a new bloom filter, add a transaction

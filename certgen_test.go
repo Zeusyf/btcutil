@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/omegasuite/btcutil"
+	"github.com/zeusyf/btcutil"
 	//"github.com/davecgh/go-spew/spew"
 )
 
